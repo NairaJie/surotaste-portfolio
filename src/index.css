@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom theme */
+:root {
+  --orange: #FF4400;
+  --green-700: #256F3C;
+  --green-dark: #204A2C;
+  --cream: #F9F6F1;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-museomoderno {
+  font-family: 'MuseoModerno', cursive;
+}
